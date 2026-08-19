@@ -1,6 +1,6 @@
 # AgendiFy - Sistema de Agendamento de Serviços
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **AgendiFy** é um sistema web desenvolvido para o gerenciamento de empresas parceiras, profissionais e serviços, permitindo o controle de agendamentos de forma segura e eficiente.
 
@@ -8,7 +8,7 @@ O projeto foi desenvolvido como trabalho acadêmico para a disciplina de **Labor
 
 ---
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 Este sistema foi idealizado não apenas como um requisito acadêmico, mas como a simulação de um produto real. Os principais objetivos desde a sua concepção incluem:
 
@@ -75,7 +75,7 @@ Principais recursos de segurança:
 
 ---
 
-## ⚙️ Instalação e Execução
+## Instalação e Execução
 
 ### 1. Clonar o Repositório
 
